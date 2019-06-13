@@ -1,5 +1,6 @@
 package com.learn.model;
 
+
 //@Configuration
 public class Message {
 	private String message;
