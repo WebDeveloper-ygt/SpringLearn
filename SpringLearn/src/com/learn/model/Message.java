@@ -1,5 +1,6 @@
 package com.learn.model;
 
+//@Entity
 public class Message {
 	private String message;
 
